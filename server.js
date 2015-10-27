@@ -16,5 +16,3 @@ app.listen(app.get('port'), function() {
 
 module.exports = app;
 
-// This is a useless comment
-
